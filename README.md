@@ -8,8 +8,8 @@ A beautifully crafted Flutter recipe application with advanced state management,
   
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-| <img src="screenshots/Screenshot_20251118_212616[1].jpg" width="100%" alt="Categories Screen"/> **Recipe Categories** | <img src="screenshots/Screenshot_20251118_212619[1].jpg" width="100%" alt="Meals List"/> **Meals Overview** | <img src="screenshots/Screenshot_20251118_212622[1].jpg" width="100%" alt="Filters"/> **Dietary Filters** |
-| <img src="screenshots/Screenshot_20251118_212642[1].jpg" width="100%" alt="Recipe Detail"/> **Recipe Details** | <img src="screenshots/Screenshot_20251118_212656[1].jpg" width="100%" alt="Favorites"/> **Favorite Meals** | <img src="screenshots/Screenshot_20251118_212721[1].jpg" width="100%" alt="Add Place"/> **Add New Recipe** |
+| <img src="screenshots/Screenshot_20251118_212616.jpg" width="100%" alt="Categories Screen"/> **Recipe Categories** | <img src="screenshots/Screenshot_20251118_212619.jpg" width="100%" alt="Meals List"/> **Meals Overview** | <img src="screenshots/Screenshot_20251118_212622.jpg" width="100%" alt="Filters"/> **Dietary Filters** |
+| <img src="screenshots/Screenshot_20251118_212642.jpg" width="100%" alt="Recipe Detail"/> **Recipe Details** | <img src="screenshots/Screenshot_20251118_212656.jpg" width="100%" alt="Favorites"/> **Favorite Meals** | <img src="screenshots/Screenshot_20251118_212721.jpg" width="100%" alt="Add Place"/> **Add New Recipe** |
 
 </div>
 
