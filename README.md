@@ -32,7 +32,7 @@ A beautifully crafted Flutter recipe application with advanced state management,
 - **Navigation System** - Drawer navigation and route management
 - **Animation Integration** - Smooth UI animations and transitions
 - **Filter System** - Dynamic data filtering based on user preferences
-- **Form Handling** - Input validation and new recipe creation
+
 
 ## 🚀 Getting Started
 
