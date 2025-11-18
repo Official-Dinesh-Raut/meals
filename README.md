@@ -22,7 +22,6 @@ A beautifully crafted Flutter recipe application with advanced state management,
 - 📱 **Responsive Grid Layout** - Beautiful GridView for recipe displays
 - 🧭 **Intuitive Navigation** - Navigation drawer with multiple routes
 - 🏷️ **Smart Categorization** - Quick & Easy, Exotic, Summer-themed meals
-- ➕ **Add New Recipes** - Comprehensive recipe creation interface
 
 ## 🛠️ Technical Implementation
 
